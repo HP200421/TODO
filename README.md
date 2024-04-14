@@ -18,7 +18,7 @@ Welcome to the React Todo App! This application allows you to efficiently manage
 
 ## Deployment
 
-This app has been deployed on Netlify, making it accessible to you anytime, anywhere. Simply visit https://manage-todo-daily.netlify.app/ to start managing your todos!
+This app has been deployed on Netlify, making it accessible to you anytime, anywhere. Simply visit https://manage-todo-daily.netlify.app/ to start managing your todos!!!
 
 ## Getting Started
 
