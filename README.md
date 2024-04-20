@@ -6,7 +6,7 @@ Welcome to the React Todo App! This application allows you to efficiently manage
 
 - **Todo Management**: Easily add, update, and delete your todos.
 - **Local Storage**: Your todo list is stored locally, ensuring your data is persistent across sessions.
-- **Context API for State Management**: Utilizing the Context API for state management ensures a smooth and efficient user experience.
+- **Context API for State Management**: Utilizing the Context API for state management ensures a smooth and efficient user experience. Ensuring smooth data flow through out the application.
 - **Custom Hook**: A custom hook has been implemented to simplify the usage of the context created for this todo app.
 - **Mark Todos as Completed**: Keep track of your progress by marking todos as completed or not.
 
