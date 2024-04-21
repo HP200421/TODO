@@ -38,6 +38,5 @@ That's it! You're ready to start managing your todos with ease.
 ![image](https://github.com/HP200421/TODO/assets/112316418/03797961-38ae-4c6e-8230-b6472945c10e)
 
 
----
-
+------------------------------------------------------------------------------------------------
 *Crafted with ❤️ by Haridas*
