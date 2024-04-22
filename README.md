@@ -39,4 +39,4 @@ That's it! You're ready to start managing your todos with ease.
 
 
 ------------------------------------------------------------------------------------------------
-*Crafted with ❤️ by Haridas*
+*Crafted with ❤️ by Haridas Pawar*
